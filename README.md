@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for an uncommon bug in a Dapp's Ownable contract. The bug involves a missing check for valid addresses in the transferOwnership function. The bug report details the issue, and the solution provides a corrected version of the function.  The provided code examples are in Solidity.
